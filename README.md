@@ -11,6 +11,7 @@ Social media ini dibuat oleh:
 2. Instal nodemon concurrently `npm i -D nodemon concurrently` 
 3. jalankan server dan front-end program dengan `npm run dev`
 
+![tes](direwan/devconnector_html_theme/img/icon.png)
 ![People](peoplepic.PNG)
 ![Post](postpic.PNG)
 ![Discussion](dicuss.PNG)
